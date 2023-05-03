@@ -1,0 +1,79 @@
+body{
+    overflow: hidden;
+
+    font-family: "Noto Serif Korean",serif ;
+}
+
+h3{
+    font-family: "Noto Serif Korean";
+    margin-top: 50px;
+    font-size: 20px;
+    color: #050404;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.MENU *{
+    display: inline;
+}
+.MENU li {
+    magin: 35px;
+}
+
+.MENU li a{
+    color: #443131;
+    text-decoration: none;
+}
+
+.MENU ul{
+    padding-left: 0px;
+}
+
+.MENU{
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+    align-items: center;
+    padding-top: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+}
+
+
+.one{
+    background-size:cover;
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+.profile {
+    border-radius: 30%;
+    display: inline-block;
+    padding: 0.5rem;
+    margin-top: 20px;
+    border: 1px solid gray;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgb(255, 255, 255, 0.5);
+}
+
+.profile img {
+    border-radius: 30%;
+}
+
+
+.two{
+    background-size:cover;
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+.three{
+    background-size:cover;
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
